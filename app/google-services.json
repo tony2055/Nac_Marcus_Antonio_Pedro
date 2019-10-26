@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "50378845496",
+    "firebase_url": "https://nacmarcusantoniopedro.firebaseio.com",
+    "project_id": "nacmarcusantoniopedro",
+    "storage_bucket": "nacmarcusantoniopedro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50378845496:android:5bf6ad287a12aaf2b7a5cd",
+        "android_client_info": {
+          "package_name": "com.fiap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50378845496-ttv8h9hbfdr425srjg4m7sjb35ror2pf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fiap",
+            "certificate_hash": "80d7aba3af0f29d89e62871ba62e18dd32e7bd9f"
+          }
+        },
+        {
+          "client_id": "50378845496-07j87qqopb6btjijjaufpeenhl4k3ldo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZGoc1pjFwkgAVisGj8R7F3Ms2BsUn59U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50378845496-07j87qqopb6btjijjaufpeenhl4k3ldo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
